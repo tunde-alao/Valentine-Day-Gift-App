@@ -1,0 +1,7 @@
+.dart_tool/
+build/
+pubspec.lock  # Except for application packages
+assets/whatsapp_chat.txt
+.env
+lib/env/envied.g.dart
+.dart_tool/build/generated/affection_alerts/lib/env/envied.envied.g.part
